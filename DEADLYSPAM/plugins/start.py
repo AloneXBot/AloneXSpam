@@ -10,11 +10,11 @@ DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/c6f99c0b68ff07
 
 Deadly_Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Deadly_spambot"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Deadly_spam_bot")
+        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/The_Alone_Network"),
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/The_Alone_Network")
         ],
         [
-        Button.url("• Rᴇᴘᴏ •", "https://github.com/Team-Deadly/DEADLY-SPAMBOT")
+        Button.url("• Rᴇᴘᴏ •", "https://telegra.ph/file/95b8a5320ceeb942b05eb.mp4")
         ]
         ]
         
